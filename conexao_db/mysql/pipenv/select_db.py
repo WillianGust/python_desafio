@@ -37,7 +37,7 @@ values('Clayton', 'clyton@torneseumprogramador.com.br', 'Rua graziana 12');
 
 select * from usuarios;
 
-update usuarios set nome = 'Danilo', email = 'danilo@torneseumprogramador.com.br', endereco = 'Rua teste 123'
+update usuarios set nome = 'Willian', email = 'willian@gmail.com', endereco = 'Rua teste 123'
 where id = 1;
 
 select * from usuarios;
